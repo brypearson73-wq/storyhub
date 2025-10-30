@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Storyhub from './Storyhub_v3_00.jsx'
+import Storyhub from './Storyhub.jsx'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
